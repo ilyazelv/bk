@@ -1,7 +1,7 @@
 # bk - Reverse 'cd'
 # Copyright (C), Ilya Zelvyansky, 2016
 #
-# GPLv2
+# GPLv2 (See COPYING)
 
 # Source this file from .bashrc
 
